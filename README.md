@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amanuel Alemayehu   </h1>
-![Image](https://github.com/user-attachments/assets/c0e4aa1c-dd8b-4c58-a969-86407ec62178)
+
 <h3 align="center">A pass
 onate fullstack developer from Ethiopia</h3>
 

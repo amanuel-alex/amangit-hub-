@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amanuel Alemayehu</h1>
+<h1 align="center">Hi 👋, I'm Amanuel Alemayehu  ![image](https://github.com/user-attachments/assets/e2966494-8d04-4edc-b626-ebb31be22907)
+</h1>
 <h3 align="center">A passionate fullStack developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amangit-hub&label=Profile%20views&color=0e75b6&style=flat" alt="amangit-hub" /> </p>
